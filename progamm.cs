@@ -5,6 +5,7 @@ namespace Arvolol
         static void Main(string[] args)
         {
             Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+            arvo kadak imeb andero suurt varvast
         }
     }
 }
